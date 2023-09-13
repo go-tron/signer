@@ -1,0 +1,10 @@
+github.com/go-tron/base-error v1.0.0 h1:oPcqZOYUyShFfMBXYMgjcvMwyuJPsM0cCS126e/8yV4=
+github.com/go-tron/base-error v1.0.0/go.mod h1:TVV7i0UkqTQA1j4j8u0sORfTOA19oAurw4UkNF+jPbI=
+github.com/go-tron/crypto v1.0.0 h1:MeTn9vczQLZveV3WVarT1hDyep/mHQp1akbd+Uxabhg=
+github.com/go-tron/crypto v1.0.0/go.mod h1:rVqIkhZeFhYQghyO91uaX6Um4nq8GWFAnvgE79EjiVU=
+github.com/go-tron/encoding v1.0.0 h1:sO5O8NETqdOOEX2TprU19Lu6164/G9pgDMTTSoHhHtY=
+github.com/go-tron/encoding v1.0.0/go.mod h1:VlPLTbnHc1/GaGjERNaSc1v6JKADXmxBTBqvGiI6i00=
+github.com/go-tron/types v1.0.1 h1:yLK3tkjD2hAG864mPdJh9faNfr1mBwZFfVRtWxxUwb0=
+github.com/go-tron/types v1.0.1/go.mod h1:vpUY9tMkqzVnhQb6LG6kvpyaYJFr9S6SwFzycRlp99U=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
