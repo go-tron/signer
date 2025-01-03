@@ -1,9 +1,9 @@
 package signer
 
-import baseError "github.com/go-tron/base-error"
+import baseError "github.com/go-estar/base-error"
 
 var (
-	ErrorEncoding = baseError.System("1300", "encode error")
-	ErrorPresent  = baseError.New("1301", "sign not present")
-	ErrorVerify   = baseError.New("1303", "sign verify failed")
+	ErrorEncoding = baseError.NewSystemCode("1300", "encode error")
+	ErrorPresent  = baseError.NewCode("1301", "sign not present")
+	ErrorVerify   = baseError.NewCode("1303", "sign verify failed")
 )

@@ -1,12 +1,14 @@
-module github.com/go-tron/signer
+module github.com/go-estar/signer
 
-go 1.19
+go 1.22.0
 
 require (
-	github.com/go-tron/base-error v1.0.0
-	github.com/go-tron/crypto v1.0.0
-	github.com/go-tron/encoding v1.0.0
-	github.com/go-tron/types v1.0.1
+	github.com/go-estar/base-error v1.0.7
+	github.com/go-estar/crypto v1.0.1
+	github.com/go-estar/types v1.0.6
 )
 
-require github.com/pkg/errors v0.9.1 // indirect
+require (
+	github.com/pkg/errors v0.9.1 // indirect
+	github.com/thoas/go-funk v0.9.3 // indirect
+)

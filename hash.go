@@ -5,8 +5,8 @@ import (
 	_ "crypto/md5"
 	_ "crypto/sha1"
 	_ "crypto/sha256"
-	"github.com/go-tron/encoding"
-	"github.com/go-tron/types/mapUtil"
+	"github.com/go-estar/crypto/encoding"
+	"github.com/go-estar/types/mapUtil"
 )
 
 type Hash struct {

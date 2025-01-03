@@ -7,9 +7,9 @@ import (
 	_ "crypto/sha1"
 	_ "crypto/sha256"
 	"fmt"
-	"github.com/go-tron/crypto/encoding"
-	"github.com/go-tron/crypto/rsaUtil"
-	"github.com/go-tron/types/mapUtil"
+	"github.com/go-estar/crypto/encoding"
+	"github.com/go-estar/crypto/rsaUtil"
+	"github.com/go-estar/types/mapUtil"
 )
 
 type RsaKeyPair struct {
